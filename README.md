@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Hi, I'm a MERN Stack Developer 👋<br><br>I am a results-driven **MERN Stack Developer** specializing in building scalable, high-performance web applications using modern JavaScript technologies. I focus on clean architecture, maintainable code, and delivering user-centric solutions.
 Strong experience in full-stack JavaScript development
 
