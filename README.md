@@ -29,7 +29,7 @@ Strong focus on code quality and documentation
 I am open to full-time roles, freelance projects, and collaborative open-source contributions. Feel free to connect if you are looking for a dedicated MERN Stack Developer who values quality and impact.
 📫 Contact
 
-Email: mazharmohal05@gmail.com
+Email: mazharmohal03@gmail.com
 
 LinkedIn: www.linkedin.com/in/mazhar-71558725b
 
